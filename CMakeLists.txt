@@ -9,6 +9,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 set(PROJECT_SOURCES
    ./ComputeGraphic/src/main.cpp
+   ./ComputeGraphic/include/main.h
     )
 
 add_subdirectory(Quater)
